@@ -87,8 +87,8 @@ var SortBar = React.createClass({
         <div className="col-sm-12">
           <ul className="nav nav-pills">
             <li className="active"><a href="#" onClick={() => this.viewChanged('latest')}>Latest Releases</a></li>
-            <li><a href="#" onClick={() => this.viewChanged('alpha')}>A-Z</a></li>
-            <li><a href="#" onClick={() => this.viewChanged('map')}>Where to Watch</a></li>
+            <li className="active"><a href="#" onClick={() => this.viewChanged('alpha')}>A-Z</a></li>
+            <li className="active"><a href="#" onClick={() => this.viewChanged('map')}>Where to Watch</a></li>
           </ul>
         </div>
         <div className="col-sm-12">
