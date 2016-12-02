@@ -5,7 +5,7 @@
 Go to below website to access Eddie Tao's Buyflix website:
 
 ```
-https://buyflix-a12d4.firebaseio.com
+https://buyflix-a12d4.firebaseapp.com
 ```
 
 For educational purposes only.
